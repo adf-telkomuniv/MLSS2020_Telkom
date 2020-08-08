@@ -7,3 +7,7 @@
 * Practical 4: **"Reinforcement Learning"** by [Feryal Behbahani](https://uk.linkedin.com/in/feryal-behbahani), 
   * [[Github](https://github.com/Feryal/rl_mlss_2020https://feryal.github.io/)] , [[Google Colab](https://colab.research.google.com/github/feryal/rl_mlss_2020/blob/master/RL_Tutorial_MLSS_2020.ipynb)]
 * Practical 5: **"Variational AutoEncoder"** by [Anditya Arifianto](https://www.linkedin.com/in/andityaarifianto/)
+* Practical 6: **"Deep Learning for NLP"** by [Genta Indra Winata](https://gentawinata.com/)
+  * [[Google Colab](https://colab.research.google.com/drive/1tMQ4b_hf7YJ5qVumDoK_0T3BqKW7SzXE?usp=sharing)]
+* Practical 7: **"LSTM, Attention Mechanism, Transformer"** by [Genta Indra Winata](https://gentawinata.com/)
+  * [[Google Colab](https://colab.research.google.com/drive/1tMQ4b_hf7YJ5qVumDoK_0T3BqKW7SzXE?usp=sharing)]
