@@ -12,3 +12,8 @@
   * [[Google Colab](https://colab.research.google.com/drive/1tMQ4b_hf7YJ5qVumDoK_0T3BqKW7SzXE?usp=sharing)]
 * Practical 7: **"LSTM, Attention Mechanism, Transformer"** by [Genta Indra Winata](https://gentawinata.com/)
   * [[Google Colab](https://colab.research.google.com/drive/1tMQ4b_hf7YJ5qVumDoK_0T3BqKW7SzXE?usp=sharing)]
+* Practical 8: **"Transfer Learning for NLP"** by [Radityo Eko Prasojo](https://www.linkedin.com/in/radityo-eko-prasojo-ridho-82586728/)
+  * [[Google Colab](https://colab.research.google.com/drive/1Csgd2k41jdH2uVoGUxJ04krrlqUxfrH1?usp=sharing)]
+
+
+
