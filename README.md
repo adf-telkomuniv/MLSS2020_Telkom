@@ -1,5 +1,17 @@
 # MLSS2020_Telkom
 
+This is a repository for MLSS-Indonesia 2020 event <br>
+Bandung, 3-9 August 2020<br>
+[site](https://mlss.telkomuniversity.ac.id)
+
+The Machine Learning Summer School Indonesia (MLSS-Indo) is part of MLSS series (mlss.cc), which was started at Max Planck Institute for Intelligent Systems in Tübingen, Germany, in 2002. It is a seven-day event where participants have the chance to learn more about the fundamentals and the current state of the art in machine learning and deep learning, including relevant applications to data science, computer vision, and natural language processing.
+
+The event consists of the following sessions:
+
+## Lectures
+* [Published Slides](https://drive.google.com/drive/folders/1i7T-MLKi5BWkVAj76H7aVlbi0QRYAf-d)
+
+## Practical
 * Practical 1: **"Machine Learning Fundamental, TensorFlow"** by [Anditya Arifianto](https://www.linkedin.com/in/andityaarifianto/)
 * Practical 2: **"Convolutional Neural Network"** by [Vincent Tatan](https://www.linkedin.com/in/vincenttatan/)
   * [[Google Colab](https://colab.research.google.com/drive/1OFWBxvT9cnyJpcTcGCPEqYIq_u0Yt90b?usp=sharing)]
